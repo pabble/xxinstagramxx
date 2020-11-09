@@ -1,0 +1,14 @@
+{
+  "name": "xxinstagramxx",
+  "version": "1.0.0",
+  "description": "from the depths of pain, pabble studios presents: XxInstagramxX, the ultimate instagram bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "penis"
+  ],
+  "author": "pabble",
+  "license": "ISC"
+}
